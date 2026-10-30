@@ -1,0 +1,6 @@
+{
+  "name": "منصة لمّـة للمناسبات | Lamma App",
+  "description": "المنصة العراقية الأولى لحجز وتنسيق المناسبات، قاعات ومطاعم، كيك، كوادر ضيافة، ومحطات طهي لايف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
